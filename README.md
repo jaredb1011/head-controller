@@ -10,6 +10,10 @@ Dependencies to install with pip (you may have these already):
 
 *tkinter also needs to be installed, should come default with python
 
+You need to download the *shape_predictor_68_face_landmarks.dat* file from:
+https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
+unzip the file, and place it in the same folder as the rest of these files.
+
 # SETUP--------------------------------------------------------
 All you should have to do is make sure that the following files 
 are present in the same folder:
