@@ -36,3 +36,10 @@ The other actions will press and then instantly release their assigned key.
 Brow Raise will keep the key held until you go back to normal, so is suited for ADS control.
 
 You can remap the keybinds to A-Z, UP, DOWN, LEFT, RIGHT, or LCTL.
+
+## TO-DO (in no particular order)
+- Add persistent settings file
+- fix the face window freezing on brow actions / find different way to do ADS control
+- multi-thread the GUI for real-time settings changes and better performance
+- combine the poseaimer and faceaimer scripts to get both featuresets in one program
+- draw lines on screen to indicate trim/reticle offsets?
