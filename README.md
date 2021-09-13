@@ -20,6 +20,7 @@ are present in the same folder:
 - aiming.py           -- handles the actual aiming ingame
 - guiWindow.py        -- creates the startup config menu
 - hardwareInputs.py   -- defines some classes for key inputs
+- poseAimer.py        -- another script to use head angle to control input, currently testing
 - shape_predictor_68_face_landmarks.dat  -- facial detection model
 
 
