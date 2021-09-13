@@ -3,9 +3,9 @@ Use a webcam and computer vision to utilize different facial movements as keyboa
 
 # DEPENDENCIES-------------------------------------------------
 Dependencies to install with pip (you may have these already):
-    pywin32
-    opencv-python
-    dlib
+    pywin32,
+    opencv-python,
+    dlib,
     pynput
 
 *tkinter also needs to be installed, should come default with python
@@ -25,9 +25,9 @@ are present in the same folder:
 
 # KEYBINDS-----------------------------------------------------
 Current keybinds are:
-    Mouth - LCTRL
-    Brow Furrow - R
-    Brow Raise - Z
+    Mouth - LCTRL,
+    Brow Furrow - R,
+    Brow Raise - Z,
 
 # The brow raise action is set to behave like ADS.
 The other actions will press and then instantly release their assigned key.
